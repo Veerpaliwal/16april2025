@@ -1,0 +1,14 @@
+.v_tbdr{
+   border: 3px solid black;
+}
+header{
+    height: 68px;
+    background-color: #9933CC;
+}
+footer{
+    height: 40px;
+    background-color:#0099CC ;
+}
+main{
+  min-height: 234px;
+}
